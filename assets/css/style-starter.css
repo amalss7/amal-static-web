@@ -10437,7 +10437,7 @@ h4.sub-title {
   -ms-transition: 0.3s ease-in; }
 
 .w3l-main-banner .banner-view {
-  background: url(../images/place.jpeg) no-repeat right;
+  background: url(../images/1.jpg) no-repeat right;
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -10455,9 +10455,7 @@ h4.sub-title {
   right: 0;
   z-index: -1; }
 
-.w3l-main-banner .banner-info img {
-  border: 4px solid #fff;
-  border-radius: 1000000%; }
+
   
 
 @media (max-width: 992px) {
@@ -10522,8 +10520,8 @@ h4.sub-title {
   /*--//responsive--*/ }
   .w3l-feature-3 span.number img {
     vertical-align: -webkit-baseline-middle; }
-  .w3l-feature-3 .top-bottom {
-    background: url(../images/sub.jpeg) no-repeat center;
+   .top-bottom {
+    background: url(../images/g3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10966,7 +10964,7 @@ body:after {
     font-size: 12px; } }
 
 .services-12 .form-12-content {
-  background: url("../images/Jellyfish.jpeg") no-repeat center;
+  background: url("../images/amalsunset.jpeg") no-repeat center;
   background-size: cover;
   padding: 5rem 0px;
   background-attachment: fixed;
